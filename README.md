@@ -1,4 +1,4 @@
 # demo
 this is my first github repo
 <br>
-<h2>Author Rithvick Reddy</h2>
+<h2>Author Rithvick Reddy Vancha</h2>
